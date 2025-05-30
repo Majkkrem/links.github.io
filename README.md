@@ -16,7 +16,6 @@ npm install --save-dev @faker-js/faker
 ## Frontend links
 
 Bootstrap doksi [Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
+useEffect doksi[useEffect]([url](https://scrimba.com/links/react-docs-useeffect))
+useState doksi [useState]([url](https://react.dev/reference/react/useState))
 
-```
-
-```
