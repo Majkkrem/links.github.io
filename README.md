@@ -41,6 +41,8 @@ Database [Database connection](https://dev.mysql.com/doc/connector-net/en/connec
 
 Console output [STAThread](https://ikriv.com/blog/?p=2470)
 
+reader [reader](https://learn.microsoft.com/en-us/dotnet/framework/data/adonet/retrieving-data-using-a-datareader)
+
 
 
 
